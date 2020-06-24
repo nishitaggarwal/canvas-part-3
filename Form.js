@@ -9,7 +9,7 @@ display(){
 
 var title = createElement("h2")
 
-title.html("car racing game")
+title.html("canvas for artist")
 
 title.position(130,0)
 
