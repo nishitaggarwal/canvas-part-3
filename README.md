@@ -1,1 +1,2 @@
-# canvas-part-3
+# synchronousBallMovement
+Ball moving synchronously
